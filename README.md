@@ -1,6 +1,6 @@
 # FL_DP_CANCER
 Proyecto ejemplo de implementación de Aprendizaje Federado y Privacidad Diferencial en la clasificación de cáncer de mama con Deep Learning.
-# Implementación de Aprendizaje Federado y Privacidad Diferencial en la Clasificación de Cáncer de Mama
+# Implementación de Aprendizaje Federado y Privacidad Diferencial en la clasificación de cáncer de mama
 
 ## Descripción del Proyecto
 Este proyecto demuestra la aplicación de técnicas de Aprendizaje Federado (FL) y Privacidad Diferencial (DP) en la clasificación de cáncer de mama utilizando el conjunto de datos Breast Cancer Wisconsin (Diagnostic). El objetivo es entrenar un modelo de clasificación de manera descentralizada y privada, donde cada cliente entrena un modelo local utilizando sus propios datos y, posteriormente, los modelos locales se agregan en un servidor para obtener un modelo global.
